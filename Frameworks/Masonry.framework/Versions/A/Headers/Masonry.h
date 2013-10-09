@@ -1,10 +1,12 @@
 //
-//  Masonry.h
-//  Masonry
+//  masonry.h
+//  masonry
 //
-//  Created by Jonas Budelmann on 20/07/13.
-//  Copyright (c) 2013 cloudling. All rights reserved.
+//  Created by dev1 on 10/9/13.
+//  Copyright (c) 2013 Jonas Budelmann. All rights reserved.
 //
+
+#import <Foundation/Foundation.h>
 
 #import "MASUtilities.h"
 #import "View+MASAdditions.h"
@@ -16,4 +18,7 @@
 #import "MASConstraintMaker.h"
 #import "MASLayoutConstraint.h"
 #import "NSLayoutConstraint+MASDebugAdditions.h"
-  
+
+@interface masonry : NSObject
+
+@end

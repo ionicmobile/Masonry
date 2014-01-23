@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>2DF6511E-DA90-4413-A36E-D7D713A3ED42</string>
+	<string>8ECED0FA-292D-45FA-890C-ACF6C74561B8</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Masonry</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>F015AD6A-060A-4767-BDC7-F3F998D53F31</key>
-		<string>https://github.com/cloudkite/Masonry.git</string>
+		<key>B75C311D-9D66-4430-BA9A-2F1868A92C6A</key>
+		<string>https://github.com/ionicmobile/Masonry.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Masonry.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F015AD6A-060A-4767-BDC7-F3F998D53F31</key>
+		<key>B75C311D-9D66-4430-BA9A-2F1868A92C6A</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/cloudkite/Masonry.git</string>
+	<string>https://github.com/ionicmobile/Masonry.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F015AD6A-060A-4767-BDC7-F3F998D53F31</string>
+	<string>B75C311D-9D66-4430-BA9A-2F1868A92C6A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F015AD6A-060A-4767-BDC7-F3F998D53F31</string>
+			<string>B75C311D-9D66-4430-BA9A-2F1868A92C6A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Masonry</string>
 		</dict>
